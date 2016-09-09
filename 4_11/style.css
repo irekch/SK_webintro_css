@@ -1,0 +1,19 @@
+/* selektor ogolny jest najslabszy */
+h1 {
+    color: gray;
+}
+
+/* selektor oparty na klasie jest mocniejszy */
+.post-title {
+    color: blue;
+}
+
+/* selektor oparty na id jest mocniejszy niz oparte nawet na kilku klasach */
+#post-123-title {
+    color: blue;
+}
+
+/* selektor oparty na kombinacji dwoch klas jest mocniejszy od jednej */
+.blog-post .post-title{
+    color: red;
+}

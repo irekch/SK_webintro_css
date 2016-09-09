@@ -1,0 +1,9 @@
+.post-title h2 {
+    font-size: 2em;
+    color: red;
+}
+
+.info p {
+    font-size: 20px;
+    color: gray;
+}

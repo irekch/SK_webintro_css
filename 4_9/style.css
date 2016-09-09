@@ -1,0 +1,13 @@
+.blog-post {
+	width: 350px;
+	background: #e7f7d4;
+	padding: 10px;
+	margin: 10px;
+}
+
+#post1 {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	background: powderblue;
+}
